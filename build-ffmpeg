@@ -348,6 +348,7 @@ cd $PACKAGES/ffmpeg-4.1 || exit
 	--enable-runtime-cpudetect \
 	--enable-libfdk-aac \
 	--enable-avfilter \
+	--enable-openssl \
 	--enable-libopencore_amrwb \
 	--enable-libopencore_amrnb \
 	--enable-filters \
